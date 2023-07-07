@@ -1,4 +1,4 @@
-![Banner Image](assets/images/bannerimage.webp)
+![Banner Image](assets/images/GitHubBanner.png)
 
 <!--
 **davecoll3/davecoll3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
